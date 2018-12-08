@@ -1,5 +1,5 @@
 
 source 'https://rubygems.org'
-gem 'github-pages', '72'
+gem 'github-pages'
 gem 'pygments.rb'
-gem "jekyll", ">= 3.6.3"
+gem "jekyll"
