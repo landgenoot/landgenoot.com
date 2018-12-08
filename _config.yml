@@ -1,0 +1,14 @@
+name: Landgenoot
+description: Blogging about things that fascinate me
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
+
+markdown: kramdown
+highlighter: pygments
+paginate: 15
+baseurl: /
+domain_name: 'https://landgenoot.com'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'https://landgenoot.com'
+author:         'Daan Middendorp'
